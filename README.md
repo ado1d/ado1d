@@ -1,12 +1,19 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Hey+there+%F0%9F%91%8B+%E2%80%94+I%27m+Ayman+Chowdhury;Full-Stack+Developer+%C2%B7+AI+Builder+%C2%B7+CSE+Student+%40+SUST;I+turn+ideas+into+shipped+products+%F0%9F%9A%80" width="700" alt="Typing intro" />
-</div>
+<table>
+  <tr>
+    <td width="30%%" align="center" valign="middle">
+      <a href="https://github.com/ado1d">
+        <img src="https://res.cloudinary.com/ne2uunmx/image/upload/w_360,h_360,c_fill,ar_1:1,r_max/f_auto,q_auto/v1786283178/portfolio/ok4nr79p7pyqetf6uniw.jpg" width="180" alt="Ayman Chowdhury" />
+      </a>
+    </td>
+    <td width="70%%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=580&lines=Hey+there+%F0%9F%91%8B+%E2%80%94+I%27m+Ayman+Chowdhury;Full-Stack+Developer+%C2%B7+AI+Builder+%C2%B7+CSE+Student+%40+SUST;I+turn+ideas+into+shipped+products+%F0%9F%9A%80" width="580" alt="Typing intro" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=ado1d&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8&text_color=C9D1D9" alt="Ayman's GitHub stats" />
 
 I'm **Ayman Chowdhury** — a Computer Science & Engineering student at **Shahjalal University of Science & Technology (SUST)**, and a builder at heart. I love making things that live on the internet: from an AI advisor that helps smallholder farmers plan their growing season, to an interactive guide that teaches TypeScript from zero. My sweet spot is where **clean UI meets a smart backend**.
 
@@ -77,8 +84,8 @@ I'm **Ayman Chowdhury** — a Computer Science & Engineering student at **Shahja
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ado1d&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ado1d&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=ado1d&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ado1d&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 </div>
 
 ---
