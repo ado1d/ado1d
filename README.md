@@ -1,30 +1,41 @@
 <table>
   <tr>
-    <td width="30%%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <a href="https://github.com/ado1d">
         <img src="https://res.cloudinary.com/ne2uunmx/image/upload/w_360,h_360,c_fill,ar_1:1,r_max/f_auto,q_auto/v1786283178/portfolio/ok4nr79p7pyqetf6uniw.jpg" width="180" alt="Ayman Chowdhury" />
       </a>
     </td>
-    <td width="70%%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=580&lines=Hey+there+%F0%9F%91%8B+%E2%80%94+I%27m+Ayman+Chowdhury;Full-Stack+Developer+%C2%B7+AI+Builder+%C2%B7+CSE+Student+%40+SUST;I+turn+ideas+into+shipped+products+%F0%9F%9A%80" width="580" alt="Typing intro" />
+    <td width="70%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=580&lines=Hey%2C+I%27m+Ayman+Chowdhury;Software+Engineering+undergrad+%40+SUST;I+build+web+apps+and+AI-assisted+tools" width="580" alt="Typing intro" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Ayman Chowdhury** — a Computer Science & Engineering student at **Shahjalal University of Science & Technology (SUST)**, and a builder at heart. I love making things that live on the internet: from an AI advisor that helps smallholder farmers plan their growing season, to an interactive guide that teaches TypeScript from zero. My sweet spot is where **clean UI meets a smart backend**.
+I'm Ayman Chowdhury, a Software Engineering undergrad at [SUST](https://www.sust.edu) (2023–2027). I build full-stack web apps and AI-assisted tools, mostly with React, Next.js, Node.js, Python and SQL. Lately I've been working with LLM agents (ReAct) and RAG-style data flows.
 
-- 🔭 **Now building:** full-stack AI-powered apps with Next.js, TypeScript & Prisma
-- 🤖 **Deep-diving into:** RAG pipelines, vector databases & LLM agents
-- 🏆 **Hackathon regular:** VibeJS, ICT Fest, QueueStorm — shipping under pressure is my sport
-- ⚔️ **Sharpening:** competitive programming in C++ (CSES · Codeforces)
-- 📚 **Learning in public:** turning my notes into resources anyone can use
-- 💼 **Open to:** internships & open-source collaboration
-- 🌏 **Based in:** Noakhali, Bangladesh 🇧🇩
-- 💬 **Ask me about:** React, Next.js, TypeScript or hackathon survival tips
+Alongside coursework I do competitive programming and enter hackathons with my team — 2x national finalist in Agentic AI hackathons.
+
+- 🌏 Noakhali, Bangladesh
+- 🤖 Currently exploring: LLM agents, RAG pipelines, vector databases
+- 💼 Looking for internships in full-stack development or AI-focused roles
+- 📫 aaymanchowdhury@gmail.com
+- 🏏 Before engineering: trained at BKSP and played BCB age-group cricket (U-14, U-16) for Chattogram Division and Noakhali District
+
+## 🏆 Achievements
+
+- **IUT 12th ICT Fest — Agentic AI Hackathon (2026)** — Team SUST_VibeJS finished **top 20 out of 700+ teams**, among universities across Bangladesh
+- **SUST CSE Carnival — Agentic AI Hackathon (2026)** — Team SUST_VibeJS finished **top 50 out of 800+ teams**
+- **LU-IUJPC, Sylhet Division (2024)** — Team SUST_elite_forces ranked **8th** in the programming contest at Leading University
+- **2x participant** in the Inter-University Programming Contest (IUPC), plus several intra-university contests
+
+## 💻 Competitive Programming
+
+- Solved **1200+ problems** across Codeforces, LeetCode, CodeChef and AtCoder
+- **Pupil** on Codeforces (max rating: 1253)
 
 ## 🛠️ Tech Stack
 
@@ -34,52 +45,50 @@ I'm **Ayman Chowdhury** — a Computer Science & Engineering student at **Shahja
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 **Frontend:**
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge)](https://ui.shadcn.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://motion.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **Backend & Data:**
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge)](https://authjs.dev/)
-[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 **AI & ML:**
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge)](https://github.com/ado1d/Rag-and-Vector-Database-Basics)
-[![Vector Databases](https://img.shields.io/badge/Vector_Databases-38BDF8?style=for-the-badge)](https://github.com/ado1d/Rag-and-Vector-Database-Basics)
 
-**Tools & Platforms:**
+**Tools:**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-## 🚀 Featured Projects
+## Projects
 
-| Project | What it is | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| 📘 [**typescript-in-7-days**](https://github.com/ado1d/typescript-in-7-days) | Interactive 7-day TypeScript course — 38 lesson sections, runnable code, live playground, quizzes & interview prep. [Live demo →](https://typescript-in-7-days-alpha.vercel.app) | `Next.js` `TypeScript` |
-| 🌾 [**AgriSense**](https://github.com/ado1d/SUST-VibeJS_AgriSense) | Autonomous AI agricultural advisor for Bangladeshi smallholder farmers — costed, weather-aware season planning from empty field to harvest. Built at the **SUST VibeJS Hackathon**. | `Next.js` `OpenAI` `Prisma` |
-| ✅ [**momentum**](https://github.com/ado1d/momentum) | Multi-user productivity companion — tasks, habits, goals, notes, journal & Pomodoro timer in one calm interface. Installable PWA with offline shell. | `Next.js 16` `Prisma` `NextAuth` |
-| 🧠 [**RAG & Vector DB Basics**](https://github.com/ado1d/Rag-and-Vector-Database-Basics) | Hands-on notes and implementations covering retrieval-augmented generation and vector database fundamentals. | `Python` `LangChain` |
-| 🏘️ [**local-lens**](https://github.com/ado1d/local-lens) | Local community forum for posting updates, news and important notices. | `Node.js` `Express` `EJS` |
+| 🌾 [AgriSense AI](https://github.com/ado1d/SUST-VibeJS_AgriSense) | Agricultural advisor for smallholder farmers in Bangladesh — crop recommendations, season planning, financial projections and weather-aware advice, in English and Bangla. Built as team leader of SUST_VibeJS. | Next.js · OpenAI API · Open-Meteo API |
+| 📘 [typescript-in-7-days](https://github.com/ado1d/typescript-in-7-days) | Interactive TypeScript guide — 38 lessons, runnable examples, live playground, quizzes and interview prep. [Live demo](https://typescript-in-7-days-alpha.vercel.app) | Next.js · TypeScript |
+| 🤝 [KIN automation](https://github.com/ado1d/kin-sust-automation) | Donation management system for non-profits — tracks donations, volunteers, tasks and distributions, with role-based dashboards, auth and audit trails. [Live](https://kin-automation.vercel.app) | Next.js · PostgreSQL |
+| ✅ [momentum](https://github.com/ado1d/momentum) | Productivity app — tasks, habits, goals, notes, journal and a Pomodoro timer. Multi-user with Google sign-in. | Next.js 16 · Prisma · NextAuth |
+| 🏘️ [LocalLens](https://github.com/ado1d/local-lens) | Neighborhood community forum with geo-tagged local posts, comments and voting. [Live](https://local-lens-wheat.vercel.app) | Node.js · Express · MySQL |
 
 ## 📊 GitHub Analytics
 
@@ -92,9 +101,11 @@ I'm **Ayman Chowdhury** — a Computer Science & Engineering student at **Shahja
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2021831024@student.sust.edu)
+[![Gmail](https://img.shields.io/badge/aaymanchowdhury%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaymanchowdhury@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Ayman_Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-chowdhury-b03254358)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayman-portfolio-seven.vercel.app)
 [![GitHub](https://img.shields.io/badge/Follow_%40ado1d-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ado1d)
 
 <br />
